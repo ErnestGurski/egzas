@@ -39,7 +39,7 @@ namespace Ernest
         public void PrintAbout()
         {
             Console.WriteLine("Gyvunas:", this.Line, Getgyvunas());
-            PrintPerfumeBase();
+            PrintZinduoliaiBase();
         }
 
         ~Suo()
